@@ -1,0 +1,35 @@
+{
+  "cookies": [
+    {
+      "name": "authjs.csrf-token",
+      "value": "86bfe69c68c75202968f0d4051ea1203da44e3fb78928cdc85dc5337a70feef3%7C9b85f03cc17cbb4347a224a541a8aa3916e38ac1c49839e2122da967a5c097dd",
+      "domain": "192.168.12.116",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "authjs.callback-url",
+      "value": "http%3A%2F%2F192.168.12.116%3A3000%2Fdashboard",
+      "domain": "192.168.12.116",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "authjs.session-token",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwia2lkIjoib19VNnFPd3JNY3VBUHRzMjlGOUhIbzJqTnNJVTZYeFpZcmx6cndsLTZ1R3NuYTJSZkV5Z2dfOXBSRmhPUDI2NkZjRmQ1M3lEaHpyVlR5Wm10enlfMncifQ..lEb44x4v4GyGRGtoC8aV_g.yvaq22JaKsRFrGvpt-ot8DNvB1iCljqTDriEa2aLY18fh5qDKOtyNAXW30G6cdRlFwe4HKLUCuJDlD9Y3QSoJlhfhkY3N8Lh5DZjRsBj2E1slk_frVzJ0rMv19sMKjMFSQelzRhPX3-3TPAIlsOVsts1ZRAyA7psFp25c64hzOdgEh4Y-dN4hMOyMD2S4_EUi_kzmrxmrKTarCcOfBguLHwDMopZkbYqk7pxaVj8BvY.Xe-mJvGlbwAuAbDZZohbdRcARLfmhmW8HNdr_LLOfDQ",
+      "domain": "192.168.12.116",
+      "path": "/",
+      "expires": 1760921284.60586,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

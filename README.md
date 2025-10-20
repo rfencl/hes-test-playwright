@@ -1,4 +1,6 @@
 # hes-test-playwright
+<img width="993" height="438" alt="image" src="https://github.com/user-attachments/assets/ee6c91bb-e90b-4374-aace-696621eb0ff3" />
+
 
 This is the Playwright implementaion of the hes-interview coding assignment.
 The tests assume that the User and Household are already present.
